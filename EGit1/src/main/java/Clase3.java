@@ -13,5 +13,8 @@ public class Clase3 {
     public int resta(){
         return this.valo1-this.valor2;
     }
+    public int multiplica(){
+        return this.valo1*this.valor2;
+    }
     
 }
