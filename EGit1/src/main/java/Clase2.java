@@ -10,4 +10,7 @@ public class Clase2 {
     public int restar(){
         return this.valor-this.valor;
     }
+    public int multiplica(){
+        return this.valor*this.valor;
+    }
 }
