@@ -7,4 +7,7 @@ public class Clase2 {
     public int getValor(){
         return this.valor;
     }
+    public int multiplica(){
+        return this.valor*this.valor;
+    }
 }
